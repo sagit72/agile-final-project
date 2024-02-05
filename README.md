@@ -7,15 +7,15 @@ DONE Create a workspace in ZenHub called "Final Project" that is linked to the r
 
 DONE Create an issue template for the new repository like you did in the labs. 
 
-Create issues for the stakeholder requirements listed above (10 in all). For now, just fill in the "As a... I need... So that..." section of the template. 
+DONE Create issues for the stakeholder requirements listed above (10 in all). For now, just fill in the "As a... I need... So that..." section of the template. 
 
-Move the issues that represent requirements 7 and 8 into the Icebox. 
+DONE Move the issues that represent requirements 7 and 8 into the Icebox. 
 
-Move the remaining issues into the Product Backlog. 
+DONE Move the remaining issues into the Product Backlog. 
 
-Conduct a Backlog Refinement meeting and rank the Product Backlog so that the stories match the requirements above in the order: 1, 2, 3, 4, 9, 10, 5, & 6. 
+DONE Conduct a Backlog Refinement meeting and rank the Product Backlog so that the stories match the requirements above in the order: 1, 2, 3, 4, 9, 10, 5, & 6. 
 
-Update the top 5 stories in the Product Backlog with acceptance criteria following the Gherkin "Given... When... Then..." syntax. 
+DONE Update the top 5 stories in the Product Backlog with acceptance criteria following the Gherkin "Given... When... Then..." syntax. 
 
 Create a "technical debt" label. 
 
