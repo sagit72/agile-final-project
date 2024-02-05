@@ -5,7 +5,7 @@ DONE Create a new GitHub repository called "agile-final-project" and make sure t
 
 DONE Create a workspace in ZenHub called "Final Project" that is linked to the repository. 
 
-Create an issue template for the new repository like you did in the labs. 
+DONE Create an issue template for the new repository like you did in the labs. 
 
 Create issues for the stakeholder requirements listed above (10 in all). For now, just fill in the "As a... I need... So that..." section of the template. 
 
