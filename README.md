@@ -3,7 +3,7 @@ Backend product catalog for an e-commerce website
 
 DONE Create a new GitHub repository called "agile-final-project" and make sure that it is public. 
 
-Create a workspace in ZenHub called "Final Project" that is linked to the repository. 
+DONE Create a workspace in ZenHub called "Final Project" that is linked to the repository. 
 
 Create an issue template for the new repository like you did in the labs. 
 
