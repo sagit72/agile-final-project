@@ -9,7 +9,7 @@ assignees: ''
 
 **As a** role
 **I need** function
-**So that I* benefit
+**So that I** benefit
 
 **Assumptions and details**
 anything_you_already_know
